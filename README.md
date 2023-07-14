@@ -1,5 +1,6 @@
 After starting the application:
 visit: http://localhost:8082/h2-console/
+
 no password required
 -------------------------------------------------------------------------------------------------------------------
 Final Output Queries:
