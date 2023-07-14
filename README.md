@@ -33,7 +33,7 @@ GROUP BY
 
 Commands for local setup:
 1. After cloning the repository, navigate to the saved directory
-2. javac .\publisher\src\main\java\com\ecommerce\tracker\publisher\Main.java
+2. mvn clean install
 3. java -jar .\publisher\target\publisher-0.0.1-SNAPSHOT.jar com.ecommerce.tracker.publisher.Main
 
 User behavior assumptions:    
